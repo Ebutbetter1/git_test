@@ -1,5 +1,1 @@
-meow
-
-meow
-
-liar
+Hello world!
